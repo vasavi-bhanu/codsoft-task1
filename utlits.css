@@ -1,0 +1,31 @@
+.letter-spacing2{
+    letter-spacing: 2px;
+}
+.flex{
+    display: flex;
+}
+.space-between{
+    justify-content: space-between;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.f-w-500{
+    font-weight: 500;
+}
+.f-w-600{
+    font-weight: 600;
+}
+.f-w-700{
+    font-weight: 700;
+}
+
+.btn{
+    width: 140px;
+}
+.my-t-10{
+    margin-top: 10px;
+}
+.my-t-20{
+    margin-top: 20px;
+}
